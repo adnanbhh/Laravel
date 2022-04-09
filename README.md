@@ -60,3 +60,7 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+## About The Project
+
+pcr test management (reservation of appointments (with calendar reactive to the slot reserved or not) notification of results, visualization, choice between displacement or halfway, possibility of rescheduling by administrator (analysis lab ..)
